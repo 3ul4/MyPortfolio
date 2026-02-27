@@ -1,0 +1,107 @@
+
+
+Eulalio I. Oaquiera
+                                     Nabua, Philippines
+ 0994-582-4991 | oaquieraloipark@gmail.com
+
+
+Professional Summary
+
+Computer Science Program Head and Systems Developer specializing in academic leadership, database systems, and full-stack web application development. Experienced in designing and deploying web-based institutional platforms including class scheduling systems, tabulation systems, online examination systems, employability test management systems, and automated event systems.
+
+Demonstrates strong expertise in SQL, relational database design, and backend development using Python (Flask) and MySQL. Recognized for bridging theory and practice by integrating real-world system architecture into Computer Science education.
+
+Core Competencies
+
+
+Academic Leadership & Instruction
+Program Management & Coordination
+Curriculum Development (Outcome-Based Education)
+SQL & Database Systems Instruction
+Data Structures & Algorithms Teaching
+Capstone Project Supervision
+Academic Assessment & Evaluation
+
+Systems Development
+Full-Stack Web Development
+Python Programming
+Flask Framework
+HTML5, CSS3, JavaScript
+CRUD System Development
+Authentication & User Management
+System Architecture Design
+
+Database & Data Engineering
+SQL & MySQL
+Relational Database Design
+Data Modeling & Normalization
+Query Optimization
+Data Reporting & Export (CSV, Excel)
+
+Professional Experience
+
+University of Saint AnthonySan Miguel, Iriga City, Camarines Sur, Philippines
+Computer Science Instructor08/2024 - Present
+Lead and manage the Computer Science program, ensuring curriculum alignment and academic quality standards.
+Teach undergraduate courses including Data Structures & Algorithms, Algorithm and Complexity, Automata Theory, Database Systems (SQL), and Introduction to Programming.
+Develop structured SQL laboratory exercises with real-world database implementation projects.
+Design outcome-based syllabi and assessment tools to enhance analytical and algorithmic thinking.
+Supervise and mentor student system development and capstone projects.
+Integrate applied system design methodologies into classroom instruction.
+
+System Development Projects
+
+Web-Based Examination System
+Designed and developed a secure online examination platform for automated test administration.
+Implemented question bank management, timed assessments, and automatic score computation.
+Integrated user authentication and role-based access (Admin, Instructor, Student).
+Reduced manual checking workload and improved grading efficiency.
+Enabled performance tracking and structured exam analytics.
+Web-Based Tabulation System
+Engineered a scoring and ranking platform for academic competitions and institutional events.
+Automated score computation and ranking generation in real time.
+Improved transparency and accuracy of event results.
+Automated Bingo Event System
+Designed and implemented a digital Bingo system for institutional events.
+Automated number generation and display logic to ensure fairness and randomness.
+Integrated real-time tracking of drawn numbers.
+Eliminated manual draw errors and improved event engagement.
+
+Education
+
+Camarines Sur Polytechnic Colleges                                                                       Nabua, Camarines Sur
+Bachelor of Science in Computer Science01/2020 - 01/2024
+La Purisima National High School                                                                          Nabua, Camarines Sur
+Senior High School01/2018 - 01/2020
+
+Technical Tools
+
+Python (Flask)
+MySQL
+HTML, CSS, JavaScript
+Microsoft Office
+Canva / Photoshop
+VS Code
+GitHub
+
+Internship Experience
+Programmer InternSan Roque, Nabua, Camarines Sur
+Bureau Of Fire Protection-Nabua02/2024 - 05/2024
+OJT Requirement / Developed for innovation
+Developed a Client Clearance Management System to digitize establishment monitoring processes.
+Implemented authentication modules and secure user sessions.
+Designed full CRUD functionalities for client records and clearance tracking.
+Integrated advanced search, sorting, and bulk import/export features.
+Improved operational efficiency by transitioning from manual to digital workflow.
+Technologies: Python (Flask), MySQL, HTML, CSS, JavaScript
+
+Languages
+
+English
+Tagalog
+
+
+Reference 
+Mr. Marc Kenny Erasga
+Program Head of Computer Science-USANT
+La Purisima Iriga City09705694803
